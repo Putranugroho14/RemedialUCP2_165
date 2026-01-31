@@ -15,7 +15,7 @@
     <string name="hapus_kategori">Hapus Kategori</string>
     <string name="nama_kategori">Nama Kategori</string>
     <string name="deskripsi_kategori">Deskripsi</string>
-    <string name="parent_kategori">Parent Kategori</string>
+    <string name="parent_kategori">Kategori Induk</string>
     <string name="no_kategori">Tidak ada kategori</string>
     <string name="buku_di_kategori">Buku di kategori ini:</string>
     
@@ -36,7 +36,7 @@
     <string name="simpan">Simpan</string>
     <string name="update">Update</string>
     <string name="delete">Delete</string>
-    <string name="none">None</string>
+    <string name="none">Tidak Ada</string>
     <string name="tersedia">Tersedia</string>
     <string name="dipinjam">Dipinjam</string>
     <string name="hilang">Hilang</string>
@@ -49,7 +49,7 @@
     
 
     <string name="error_fill_required">Isi semua data wajib!</string>
-    <string name="cyclic_error">Tidak dapat mengatur kategori turunan sebagai parent.</string>
+    <string name="cyclic_error">Tidak dapat mengatur kategori turunan sebagai kategori induk.</string>
     <string name="borrowed_error">Tidak dapat menghapus kategori. Ada buku yang masih dipinjam.</string>
     
 
