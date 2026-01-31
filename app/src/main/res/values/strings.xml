@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UCP 2</string>
+    <string name="back">Kembali</string>
+    <string name="add_buku">Tambah Buku</string>
+    <string name="judul_format">Judul: %1$s</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="id_format">ID: %1$d</string>
+    <string name="nama_format">Nama: %1$s</string>
+    <string name="deskripsi_format">Deskripsi: %1$s</string>
+
+    <string name="daftar_kategori">Daftar Kategori</string>
+    <string name="tambah_kategori">Tambah Kategori</string>
+    <string name="detail_kategori">Detail Kategori</string>
+    <string name="edit_kategori">Edit Kategori</string>
+    <string name="hapus_kategori">Hapus Kategori</string>
+    <string name="nama_kategori">Nama Kategori</string>
+    <string name="deskripsi_kategori">Deskripsi</string>
+    <string name="parent_kategori">Parent Kategori</string>
+    <string name="no_kategori">Tidak ada kategori</string>
+    <string name="buku_di_kategori">Buku di kategori ini:</string>
+    
+
+    <string name="daftar_buku">Daftar Buku</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="detail_buku">Detail Buku</string>
+    <string name="edit_buku">Edit Buku</string>
+    <string name="hapus_buku">Hapus Buku</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="status_buku">Status</string>
+    <string name="kategori_buku">Kategori</string>
+    <string name="no_buku">Tidak ada buku</string>
+    <string name="tanpa_kategori">Tanpa Kategori</string>
+    <string name="kategori_id">Kategori ID: %1$s</string>
+    
+
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="none">None</string>
+    <string name="tersedia">Tersedia</string>
+    <string name="dipinjam">Dipinjam</string>
+    <string name="hilang">Hilang</string>
+    
+
+    <string name="dialog_delete_kategori_title">Hapus Kategori?</string>
+    <string name="dialog_delete_kategori_desc">Apakah Anda yakin ingin menghapus kategori ini?</string>
+    <string name="action_delete_recursive">Hapus</string>
+    <string name="action_unlink">Batal</string>
+    
+
+    <string name="error_fill_required">Isi semua data wajib!</string>
+    <string name="cyclic_error">Tidak dapat mengatur kategori turunan sebagai parent.</string>
+    <string name="borrowed_error">Tidak dapat menghapus kategori. Ada buku yang masih dipinjam.</string>
+    
+
+    <string name="menu_manajemen_kategori">Manajemen Kategori</string>
+    <string name="menu_manajemen_buku">Manajemen Buku</string>
+</resources>
